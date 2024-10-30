@@ -10,4 +10,4 @@ Math dataset composed of problems from AIME2024 (American Invitational Mathemati
 
 | Qwen2.5-72B-Instruct | Qwen2.5-7B-Instruct | internlm2_5-7b-chat |
 | ----------- | ----------- |  ----------- |
-| 13.33 | 10.00 | 0.00 |
+| 13.33 | 10.00 | 6.67 |
